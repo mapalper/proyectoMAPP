@@ -1,3 +1,4 @@
-#PROYECTOS ANDROID
->*Repositorio proyectos android Aurora*
+#PROYECTO INTEGRADO ANDROID
+>*Repositorio proyecto android Aurora*
 ## Curso 2016-2017
+#sin finalizar
